@@ -1,0 +1,7 @@
+| 1020184730   | David Victor | 1682499614   | savings  | 3000 |
+| 547033721    | Theo Unekwu  | 1853073488   | savings  | 14000 |
+| 415088719    | Joshua Ebele | 1866656083   | current  | 0 |
+| 332300622    | Joy Favour   | 1187270445   | savings  | 3700 |
+| 1020184730   | David Victor | 1648637045   | current  | 2800 |
+| 1020184730   | David Victor | 1216123064   | savings  | 6000 |
+| 332300622    | Joy Favour   | 1199673019   | current  | 9000 |

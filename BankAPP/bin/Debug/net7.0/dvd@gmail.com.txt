@@ -1,0 +1,4 @@
+|   David Victor        |     1682499614   |      savings       |        3000      |
+|   David Victor        |     1648637045   |      current       |        2800      |
+|   David Victor        |     1216123064   |      savings       |        6000      |
+
